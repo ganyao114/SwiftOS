@@ -1,0 +1,12 @@
+.\k_core.o: kernel\Core\K_Core.c
+.\k_core.o: .\kernel\Thread\INC\K_TDS_Operate.h
+.\k_core.o: .\kernel\Hal\core\K_Cpu.h
+.\k_core.o: .\kernel\Thread\INC\K_Thread.h
+.\k_core.o: .\kernel\Hal\core\K_Cpu.h
+.\k_core.o: .\kernel\Configs\K_CFG.h
+.\k_core.o: .\kernel\Thread\INC\Mutex.h
+.\k_core.o: .\kernel\Hal\core\K_Cpu.h
+.\k_core.o: .\kernel\Core\INC\K_Core.h
+.\k_core.o: kernel\Core\SwiftOS.h
+.\k_core.o: .\kernel\Hal\core\K_Cpu.h
+.\k_core.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h

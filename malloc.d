@@ -1,0 +1,16 @@
+.\malloc.o: Driver\CoreDriver\Ram\malloc.c
+.\malloc.o: .\Driver\CoreDriver\Ram\INC\malloc.h
+.\malloc.o: .\Driver\CoreDriver\Sys\INC\sys.h
+.\malloc.o: .\Driver\CoreDriver\Cpu\stm32f10x.h
+.\malloc.o: .\Driver\CoreDriver\Cpu\core_cm3.h
+.\malloc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\malloc.o: .\Driver\CoreDriver\Cpu\system_stm32f10x.h
+.\malloc.o: .\Driver\CoreDriver\Cpu\stm32f10x_conf.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\malloc.o: .\Driver\CoreDriver\Cpu\stm32f10x.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\malloc.o: .\Driver\STM32F10x_FWLib\inc\misc.h

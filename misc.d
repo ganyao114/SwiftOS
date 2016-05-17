@@ -1,0 +1,15 @@
+.\misc.o: Driver\STM32F10x_FWLib\src\misc.c
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\misc.h
+.\misc.o: .\Driver\CoreDriver\Cpu\stm32f10x.h
+.\misc.o: .\Driver\CoreDriver\Cpu\core_cm3.h
+.\misc.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\misc.o: .\Driver\CoreDriver\Cpu\system_stm32f10x.h
+.\misc.o: .\Driver\CoreDriver\Cpu\stm32f10x_conf.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+.\misc.o: .\Driver\CoreDriver\Cpu\stm32f10x.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_spi.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_tim.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\stm32f10x_usart.h
+.\misc.o: .\Driver\STM32F10x_FWLib\inc\misc.h
